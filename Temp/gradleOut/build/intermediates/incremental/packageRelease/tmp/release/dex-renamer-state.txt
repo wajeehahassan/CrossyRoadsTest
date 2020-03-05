@@ -1,0 +1,4 @@
+#Thu Mar 05 19:41:40 PKT 2020
+base.0=/Users/wajeehaH/Desktop/CrossyRoad/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
